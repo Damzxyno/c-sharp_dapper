@@ -1,0 +1,6 @@
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dacpac
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.dll
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\bin\Debug\UserDB.pdb
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.dll
+C:\Users\Damzxyno\source\repos\MinimalApiDemoApp\UserDB\obj\Debug\UserDB.pdb
